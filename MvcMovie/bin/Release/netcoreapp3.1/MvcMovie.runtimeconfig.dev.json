@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kamei\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kamei\\.nuget\\packages"
+    ]
+  }
+}
